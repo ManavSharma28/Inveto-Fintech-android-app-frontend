@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="dark_background">#33404F</color>
+    <color name="dark_gray">#33404F</color>
+<color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+<color name="light_gray">#AEAEB2</color>
+<color name="accent_green">#4CD964</color>
+<color name="bottom_nav_icon_color">#808080</color>
+<color name="bottom_nav_text_color">#808080</color>
+<color name="activity_background">#2C2C2E</color>
+    <color name="button_green">#00DDA3</color>
+
+
+</resources>
